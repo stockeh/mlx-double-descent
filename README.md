@@ -1,7 +1,5 @@
 # Double Descent (MLX)
 
-# Grokking Modular Arithmetic (MLX)
-
 <p align="center">
   <img src="media/polynomial_ols_darkmode.png#gh-dark-mode-only" alt="dd" width="50%">
 </p>
@@ -22,7 +20,7 @@ Run with default params and save the result in [`media/polynomial_*.png`](media/
 python polynomial.py
 ```
 - **`polynomial.py`**: training and evaluation loops
-- **`optimizers.py`**: sgd, adam, ols (pseudoinverse)
+- **`optimizers.py`**: sgd, adam, ols (pseudoinverse), ...
 - **`metrics.py`**: mse, rmse, r2, ...
 - **`data.py`**: generate the dataset
 
