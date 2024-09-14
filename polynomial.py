@@ -23,7 +23,7 @@ parser.add_argument('--cpu', action='store_true', help='use cpu only')
 
 N_SAMPELS = 15
 DEGREES = mx.arange(1, 26).tolist() + [30, 40, 50, 100]
-REPEAT = 10
+REPEAT = 100
 
 ###############################################################################
 

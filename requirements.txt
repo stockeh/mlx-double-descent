@@ -1,0 +1,4 @@
+matplotlib==3.9.2
+mlx==0.17.1
+mlx_data==0.0.2
+tqdm==4.66.5
